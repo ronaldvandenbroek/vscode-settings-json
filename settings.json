@@ -1,0 +1,12 @@
+{
+    "explorer.confirmDelete": false,
+	"window.zoomLevel": 0,
+    "files.insertFinalNewline": true,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
